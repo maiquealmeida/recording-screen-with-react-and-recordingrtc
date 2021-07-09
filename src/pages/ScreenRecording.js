@@ -15,7 +15,6 @@ export default function ScreenRecording() {
   const [recordPreview, setRecordPreview] = useState(null);
   const [startDisable, setStartDisable] = useState(false);
   const [stopDisable, setStopDisable] = useState(true);
-  const [loadModal, setLoadModal] = useState(false);
 
   //to enable audio and video pass true to disable pass false
   const captureCamera = (cb) => {
@@ -152,14 +151,6 @@ export default function ScreenRecording() {
   const videoModalClose = () => {
     setIsOpenVideoModal(false);
   }
-
-  const openModal = async () => {
-    await setLoadModal(false);
-  }
-
-  useEffect(() => {
-    window.onbeforeunload = openModal; 
-  }, [])
 
   return (
     <div>
