@@ -1,17 +1,12 @@
 # Screen Recording with Javacript
 
-It's demonstrates a screen recorder fetature throught the recordrtc javascript package, using ReactJS (CRA) as frontend.
+It's demonstrates a screen recorder fetature throught the recordrtc javascript package, using ReactJS (CRA) as frontend. Can you imagine the possibilities of this on a real web application? ^^
 
-Below I left a small video demonstrating the operation. The source code is available here. Can you imagine the possibilities of this? ^^ 
+Below I left a small video demonstrating the operation. The source code is available here at Github.
 
+[![ASSISTA AO VIDEO](https://img.youtube.com/vi/92UQXZCCHQ0/0.jpg)](https://www.youtube.com/watch?v=92UQXZCCHQ0)
 
- <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=92UQXZCCHQ0" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
-(If video don't loads, watch on Youtube: https://www.youtube.com/watch?v=92UQXZCCHQ0)
+Watch a simple demonstrtion on Youtube: https://www.youtube.com/watch?v=92UQXZCCHQ0)
 
 ## Available Scripts
 
