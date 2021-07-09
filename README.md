@@ -8,6 +8,10 @@ Below I left a small video demonstrating the operation. The source code is avail
 
 Watch a simple demonstrtion on Youtube: https://www.youtube.com/watch?v=92UQXZCCHQ0)
 
+ \- or -
+
+Or you can easily test it through this address:
+https://recording-screen-with-react-and-recordingrtc.vercel.app/
 ## Available Scripts
 
 In the project directory, you can run:
