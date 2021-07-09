@@ -1,5 +1,5 @@
 //ScreenRecording.jsx
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import RecordRTC from "recordrtc";
 import ScreenRecordPreviewModal from "./ScreenRecordPreviewModal";
 import { Button, Row, Col, Container, Card, CardBody } from "reactstrap";
